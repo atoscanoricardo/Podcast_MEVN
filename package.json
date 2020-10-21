@@ -1,0 +1,28 @@
+{
+    "name": "Podcast_MEVN",
+    "version": "1.0.0",
+    "description": "Proyecto final de programación web",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "nodemon app.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/atoscanoricardo/Podcast_MEVN.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/atoscanoricardo/Podcast_MEVN/issues"
+    },
+    "homepage": "https://github.com/atoscanoricardo/Podcast_MEVN#readme",
+    "dependencies": {
+        "connect-history-api-fallback": "^1.6.0",
+        "cors": "^2.8.5",
+        "express": "^4.17.1",
+        "morgan": "^1.10.0",
+        "nodemon": "^2.0.6"
+    }
+}
