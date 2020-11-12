@@ -19,10 +19,14 @@
     },
     "homepage": "https://github.com/atoscanoricardo/Podcast_MEVN#readme",
     "dependencies": {
+        "bootstrap": "^4.5.3",
+        "bootstrap-vue": "^2.19.0",
         "connect-history-api-fallback": "^1.6.0",
         "cors": "^2.8.5",
         "express": "^4.17.1",
+        "mongoose": "^5.10.13",
         "morgan": "^1.10.0",
-        "nodemon": "^2.0.6"
+        "nodemon": "^2.0.6",
+        "vue": "^2.6.12"
     }
 }
